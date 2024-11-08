@@ -1,5 +1,5 @@
 Calculadora em C#
-Este é um projeto de uma calculadora simples desenvolvida em C#. A aplicação permite realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão. Este projeto pode ser uma boa introdução para quem está começando a aprender a linguagem C# e conceitos de programação orientada a objetos.
+Este é um projeto de uma calculadora desenvolvida em C#. A aplicação permite realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão. Este projeto pode ser uma boa introdução para quem está começando a aprender a linguagem C# e conceitos de programação orientada a objetos.
 
 Funcionalidades
 Operações básicas: Adição, subtração, multiplicação e divisão.
@@ -17,25 +17,24 @@ Como Executar o Projeto
 Clone o repositório:
 
 bash
-Copiar código
+
 git clone https://github.com/seu-usuario/calculadora-csharp.git
 Navegue até o diretório do projeto:
 
 bash
-Copiar código
+
 cd calculadora-csharp
 Compile e execute o projeto:
 
 bash
-Copiar código
+
 dotnet run
 
 Exemplo de Uso
 Após executar o projeto, você verá o menu de opções no console. Basta escolher uma operação, inserir os números e obter o resultado.
 
 Exemplo de saída:
-makefile
-Copiar código
+
 Bem-vindo à Calculadora!
 
 Escolha uma operação:
